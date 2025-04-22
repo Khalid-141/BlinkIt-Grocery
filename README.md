@@ -1,6 +1,6 @@
 # BlankIt Grocery
 
-![Uploading BlinkIt Grocery.png…]()
+![BlinkIt Grocery](https://github.com/user-attachments/assets/16fafb92-8c82-4565-9558-83d47041d032)
 
 
 ## Business Requirement
