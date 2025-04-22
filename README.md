@@ -1,5 +1,9 @@
 # BlankIt Grocery
 
+![Uploading BlinkIt Grocery.png…]()
+
+
+
 ## Business Requirement
 
 To conduct comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insight and opportunities for optimization using various KPIs and visualizations in Power BI.
